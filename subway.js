@@ -98,7 +98,7 @@ const subwayPost = (stn) => {
         break;
         
       default:
-        return "국정원 지하실";
+        return "몰?루";
         break;
     }
   };
